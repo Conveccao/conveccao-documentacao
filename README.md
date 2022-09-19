@@ -81,7 +81,7 @@ O prazo foi estipulado pela FATEC em 4 sprints, as quais cada uma contém 20 dia
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-1">Sprint 1</a> |
+01          | 18/09/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/tree/sprint-01">Sprint 1</a> |
 02          | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-2">Sprint 2</a>
 03          | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-3">Sprint 3</a>
 04          | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-3">Sprint 4</a>
@@ -162,23 +162,18 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
  
  <span id="Execução">
 
-## Executando a Aplicação
+## Acessar a aplicação
   
-Para executar a siga os passos de [Como Executar](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/Como_Executar.md).
+[Clique Aqui](https://conveccao-web.onrender.com/)
  
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
   
-  <span id="Manual">
-
-## Manual do Usuário
-  
-Manual com as instruções de como Usar a Aplicação [Click para ver](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/Manual%20do%20Usu%C3%A1rio.pdf)
+ <span id="Manual">
  
- <p align="right"><a href="#topo">Voltar ao Topo</p> 
    
 ## Swagger
    
-Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub [Click para acessar](https://app.swaggerhub.com/apis-docs/Nathtruyts/good-ticket/3.0.0#/)   
+ [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub](https://app.swaggerhub.com/apis-docs/Nathtruyts/good-ticket/3.0.0#/)   
  
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
    
