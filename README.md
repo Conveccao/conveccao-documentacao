@@ -82,9 +82,9 @@ O prazo foi estipulado pela FATEC em 4 sprints, as quais cada uma contém 20 dia
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
 01          | 18/09/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/tree/sprint-01">Sprint 1</a> |
-02          | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-2">Sprint 2</a>
-03          | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-3">Sprint 3</a>
-04          | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Grupo2-DSM/Api-3dsm-2022/tree/Sprint-3">Sprint 4</a>
+02          | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="#">Sprint 2</a>
+03          | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="#">Sprint 3</a>
+04          | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="#">Sprint 4</a>
  
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
   
@@ -127,7 +127,7 @@ Inicialmente foram apresentados alguns requisitos funcionais e não funcionais e
   
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto até o momento:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![POSTMAN](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -156,7 +156,25 @@ Contém o Back-end , implementado com uma arquitetura de microsserviços que con
 Cada serviço foi desenvolvido em torno de um conjunto de regras de negócio específico, e foi implementado de forma independente, o que possibilitará uma manutenção e evolução dos serviços de forma mais estáveis, permitindo uma maior flexibilidade de tecnologias, colocar alterações em produção.
  
 > ### 📁 <a href="https://github.com/Conveccao/conveccao-documentacao">/Documentação</a>:
-Documentação da API feita no Swagger, onde inclui todos os arquivos necessários para rodar a aplicação em local host. Servidor foi desenvolvido em Node, usando router e express.  
+Documentação da API feita no Swagger, onde inclui todos os arquivos necessários para rodar a aplicação em local host. Servidor foi desenvolvido em Node, usando router e express.
+
+
+
+
+## :railway_track: Estrutura das Branchs
+
+<div>
+  
+| Nome da Branch | Representação
+| ---------------------: | :--------------------- | 
+| Master | Principal branch, contém associadas a ela as versões de publicação para facilitar o acesso e a busca por versões mais antigas. |
+| Develop | É uma cópia da branch principal contendo algumas funcionalidades que ainda não foram publicadas. Sendo assim, é a base para o desenvolvimento de novas features. |
+| Feature | Branch que contém uma nova funcionalidade específica para a nossa aplicação. Nela temos a convenção do nome feature/nome_do_recurso que será utilizada no nosso fluxo de trabalho. |
+| Hotfix | Utilizada quando ocorre algum problema no ambiente de produção no qual a correção deve ser feita imediatamente. |
+| Release | Unimos o que está pronto em nossa branch de desenvolvimento e “jogamos” para a branch principal. |
+
+
+
  
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
  
@@ -164,7 +182,15 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 
 ## Acessar a aplicação
   
-[Clique Aqui](https://conveccao-web.onrender.com/)
+<a href="https://conveccao-web.onrender.com/">Clique Aqui para acessar</a>
+
+#### Como executar o front-end
+<a href="https://github.com/Conveccao/conveccao-frontend">Clique Aqui para acessar</a>
+
+#### Como executar o back-end
+<a href="https://github.com/Conveccao/conveccao-backend">Clique Aqui para acessar</a>
+
+
  
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
   
@@ -173,7 +199,7 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
    
 ## Swagger
    
- [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub](https://app.swaggerhub.com/apis-docs/Nathtruyts/good-ticket/3.0.0#/)   
+ [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub](https://app.swaggerhub.com/apis-docs/Nathtruyts/Conveccao/1.0)   
  
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
    
