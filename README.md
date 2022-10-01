@@ -18,9 +18,6 @@
       <a href="#Sobre">Sobre o Projeto</a>
     </li>
     <li>
-      <a href="#Briefing">Briefing</a>
-    </li>
-    <li>
       <a href="#Entregas">Entregas</a>
     </li>
     <li>
@@ -59,20 +56,6 @@ A empresa Tecsus realiza a coleta e processamento de dados através de redes de 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
 
-<span id="Briefing">
-
-## Briefing
- 
-A equipe da TECSUS uma nova problemática com o surgimento da vontade de conhecer . 
-
-Durante o kick-off foi apresentado alguns requisitos para a elaboração de uma aplicação que atendesse as expectativas e solucionasse a problemática em questão. Sendo assim foi pensado em desenvolver uma interface que abrangesse difentes níveis de usuário.
-
-O público-alvo: Alunos de Ensino Médio tanto como Alunos do Ensino Fundamental, Pesquisadores que sofrem com buscas de dados.
-
-O prazo foi estipulado pela FATEC em 4 sprints, as quais cada uma contém 20 dias, totalizando 80 dias. 
- 
-<p align="right"><a href="#topo">Voltar ao Topo</p> 
-  
 <span id="Entregas">
 
 ## Entregas
