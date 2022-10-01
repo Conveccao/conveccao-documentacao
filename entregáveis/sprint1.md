@@ -94,6 +94,6 @@ Dashboard com visualização de dados mockados (optando por ver determinadas inf
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/sprint-01/burndown-sprint-01.PNG" >
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/burndown-sprint-01.png" >
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
