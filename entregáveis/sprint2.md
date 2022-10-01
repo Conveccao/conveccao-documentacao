@@ -43,7 +43,7 @@ A empresa Tecsus realiza a coleta e processamento de dados através de redes de 
 
 ## MVP 
 
-Dashboard com visualização de dados mockados (optando por ver determinadas informações de forma leiga ou avançada) nos formatos de tabelas e gráficos, cadastramento de estações, cadastramento de sensores e leituras (englobando a parte de parâmetros).
+Controle e cadastros de usuários, possuindo diferentes niveis de acesso, controlando os acesso a plataforma.. Recebimento de dados mockados, para poder simular e trabalhar a recepção, tratamento e visualização de dados meteorológicos.
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -56,10 +56,10 @@ Dashboard com visualização de dados mockados (optando por ver determinadas inf
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 18/09/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="#">Sprint 1</a> |
-02          | 09/10/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="#">Sprint 2</a> |
-03          | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="#">Sprint 3</a>
-04          | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="#">Sprint 4</a>
+01          | 18/09/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
+02          | 09/10/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint2.md">Sprint 2</a> |
+03          | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
+04          | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint4.md">Sprint 4</a>
  
  <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -68,7 +68,7 @@ Dashboard com visualização de dados mockados (optando por ver determinadas inf
 
 ## Backlog da Sprint
 
-<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/sprint-01/backlog-sprint1.png">
+<img src = "#">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -94,6 +94,6 @@ Dashboard com visualização de dados mockados (optando por ver determinadas inf
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/sprint-01/burndown-sprint-01.PNG" >
+<img src = "#" >
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
