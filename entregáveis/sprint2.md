@@ -68,7 +68,7 @@ Controle e cadastros de usuários, possuindo diferentes niveis de acesso, contro
 
 ## Backlog da Sprint
 
-<img src = "#">
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-sprint2.png">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
