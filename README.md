@@ -83,20 +83,25 @@ Inicialmente foram apresentados alguns requisitos funcionais e não funcionais e
   
  <span id="Backlog">
 
-## Backlogs
+## Backlogs do Projeto
   
- ### Produto
+### Produto
 
 <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-produto.png">
   
- ### Sprint 1
+### Sprint 1
   
 <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-sprint1.png">
-  
- 
+
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
+
+### Sprint 2
   
-  <span id="User">
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-sprint2.png">
+
+<p align="right"><a href="#topo">Voltar ao Topo</p> 
+
+<span id="User">
 
 ## User Stories 
 
