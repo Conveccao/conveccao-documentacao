@@ -94,6 +94,6 @@ Controle e cadastros de usuários, possuindo diferentes niveis de acesso, contro
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "#" >
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/burndown-sprint-02.png" >
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
