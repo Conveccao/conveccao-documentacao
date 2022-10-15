@@ -170,7 +170,7 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 
 ## Acessar a aplicação
   
-<a href="https://conveccao-web.onrender.com/">Clique Aqui para acessar</a>
+<a href="https://conveccao-dev.vercel.app/">Clique Aqui para acessar</a>
 
 #### Como executar o front-end
 <a href="https://github.com/Conveccao/conveccao-frontend">Clique Aqui para acessar</a>
