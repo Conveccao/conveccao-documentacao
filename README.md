@@ -169,12 +169,18 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
  <span id="Execução">
 
 ## Acessar a aplicação
-  
-<a href="https://conveccao-dev.vercel.app/">Clique Aqui para acessar</a>
+
+<a href="https://conveccao-dev.vercel.app/">
+ <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/acessar_capa.png" >
+</a>
+
+<br>
 
 <a href="https://github.com/Conveccao/conveccao-frontend">
    <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/frontend-codigos.png">
 </a>
+
+<br>
 
 <a href="https://github.com/Conveccao/conveccao-backend">
   <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/backend-codigos.png" >
