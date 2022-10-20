@@ -177,25 +177,23 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 ## Acessar a aplicação
 
 <a href="https://conveccao-dev.vercel.app/">
- <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/acessar_capa.png" >
+ <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/acessar.png" >
 </a>
-
+<p align="right"><a href="#topo">Voltar ao Topo</p>
 <br>
 
 <a href="https://github.com/Conveccao/conveccao-frontend">
-   <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/frontend-codigos.png">
+   <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/frontend.png">
 </a>
-
+<p align="right"><a href="#topo">Voltar ao Topo</p>
 <br>
 
 <a href="https://github.com/Conveccao/conveccao-backend">
-  <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/backend-codigos.png" >
+  <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/backend.png" >
 </a>
-
+<p align="right"><a href="#topo">Voltar ao Topo</p>
  
- <p align="right"><a href="#topo">Voltar ao Topo</p> 
-  
- <span id="Manual">
+<span id="Manual">
  
    
 ## Swagger
