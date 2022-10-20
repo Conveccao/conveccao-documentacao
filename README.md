@@ -172,7 +172,7 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
  
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
  
- <span id="Execução">
+<span id="Execução">
 
 ## Acessar a aplicação
 
@@ -182,11 +182,15 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 <br>
 
-<a href="https://github.com/Conveccao/conveccao-frontend">
+<hr>
+
+<a href="https://github.com/Conveccao/conveccao-frontend" >
    <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/frontend.png">
 </a>
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 <br>
+
+<hr>
 
 <a href="https://github.com/Conveccao/conveccao-backend">
   <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/backend.png" >
@@ -207,13 +211,13 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 ## Equipe
 |                                                            | User                                                | Função |  |
 | :--------------------------------------------------------- | :-----------------------------------------------    | :------- | :-------|
-| ![](https://avatars.githubusercontent.com/u/55259166?s=30) | [Gustavo Santos](https://github.com/gustavols)      | P.O | [LinkedIn](https://www.linkedin.com/in/gustavo-santos2002/) |
-| ![](https://avatars.githubusercontent.com/u/52466841?s=30) | [Bruno Pisciotta](https://github.com/bruno-pisciotta281)| S.M | [LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198/) 
-| ![](https://avatars.githubusercontent.com/u/78958795?s=30) | [Ana Carolina do Santos](https://github.com/annakks)|   Dev-Team    | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/) |
-| ![](https://avatars.githubusercontent.com/u/78803504?s=30) | [Nathan Truyts](https://github.com/Nathtruyts)      |   Dev-Team    | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/) |
-| ![]()                                                     |  [Daniel Luciano](https://github.com/daniellsfilho)  | Dev-Team | [LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/) |
-| ![](https://avatars.githubusercontent.com/u/79321198?s=30) | [Isabelle Ribeiro](https://github.com/drisabelles)  | Dev-Team | [LinkedIn](https://www.linkedin.com/in/drisabelles/) |
-| ![](https://avatars.githubusercontent.com/u/69692614?s=30) | [Vinicius Buarque](https://github.com/vbuarque)     | Dev-Team | [LinkedIn](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) |
+| ![](https://avatars.githubusercontent.com/u/55259166?s=30) | [Gustavo Santos](https://github.com/gustavols)      | Product Owner | [LinkedIn](https://www.linkedin.com/in/gustavo-santos2002/) |
+| ![](https://avatars.githubusercontent.com/u/52466841?s=30) | [Bruno Pisciotta](https://github.com/bruno-pisciotta281)| Scrum Master | [LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198/) 
+| ![](https://avatars.githubusercontent.com/u/78958795?s=30) | [Ana Carolina do Santos](https://github.com/annakks)|  Developer Back-End    | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/) |
+| ![](https://avatars.githubusercontent.com/u/78803504?s=30) | [Nathan Truyts](https://github.com/Nathtruyts)      |   Developer Back-End    | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/) |
+| ![]()                                                     |  [Daniel Luciano](https://github.com/daniellsfilho)  | Developer Back-End | [LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/) |
+| ![](https://avatars.githubusercontent.com/u/79321198?s=30) | [Isabelle Ribeiro](https://github.com/drisabelles)  | Developer Front-End | [LinkedIn](https://www.linkedin.com/in/drisabelles/) |
+| ![](https://avatars.githubusercontent.com/u/69692614?s=30) | [Vinicius Buarque](https://github.com/vbuarque)     | Developer Front-End | [LinkedIn](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) |
 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
