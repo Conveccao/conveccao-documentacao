@@ -43,7 +43,7 @@ A empresa Tecsus realiza a coleta e processamento de dados através de redes de 
 
 ## MVP 
 
-A definir
+Aplicativo para visualização de dados meteorológicos, recebimento e cadastratamento dos dados vindo da placa ESP32, Apresentação dos dados ao usuário.
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -58,7 +58,7 @@ A definir
 :---------: | :------:    | :-------:          | :-------:
 01          | 18/09/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
 02          | 09/10/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint2.md">Sprint 2</a>
-03          | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
+03          | 06/11/2022  | ![Generic badge](https://img.shields.io/badge/-Conclu%C3%ADdo-green)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
 04          | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-N%C3%A3o%20Conclu%C3%ADdo-red)](https://shields.io/)  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint4.md">Sprint 4</a>
  
  <p align="right"><a href="#topo">Voltar ao Topo</p>
@@ -68,7 +68,7 @@ A definir
 
 ## Backlog da Sprint
 
-<img src = "#">
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-sprint3.png">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
