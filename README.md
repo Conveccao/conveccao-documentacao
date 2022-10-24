@@ -114,7 +114,13 @@ Inicialmente foram apresentados alguns requisitos funcionais e não funcionais e
 <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/userstories.png">
  
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
-   
+
+
+## Esquema do Banco de Dados
+
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/esquema_bancodedados.jpeg">
+
+
  <span id="Tecnologias">
 
 ## Tecnologias
