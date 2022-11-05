@@ -104,6 +104,8 @@ Inicialmente foram apresentados alguns requisitos funcionais e não funcionais e
 ### Sprint 3
   
 <img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-sprint3.png">
+<h5>Obs: O ITEM 7.3 PERTECENTE AO FRONT-END FOI REMOVIDO.</h5>
+
 
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
 
