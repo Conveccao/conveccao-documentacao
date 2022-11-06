@@ -153,6 +153,12 @@ Os arquivos do projeto estão organizados em 3 repositórios, sendo:
 > ### 📁 <a href="https://github.com/Conveccao/conveccao-frontend">/front_end</a>:
 Contém o Front-end desenvolvido em React e TypeScript com construção em página única, em que o browser vai renderizar o core da aplicação apenas uma vez – todas as outras informações serão carregadas por demanda, de acordo com a necessidade do usuário, o que gera um melhor custo-benefício.
 
+> ### 📁 <a href="https://github.com/Conveccao/conveccao-mobile">/mobile</a>:
+Contém o Mobile desenvolvido em React Native e TypeScript com construção hibrida, em que o app vai renderizar o tanto para dispositivos IOS e Android.
+
+> ### 📁 <a href="https://github.com/Conveccao/conveccao-iot">/iot</a>:
+Contém o iot desenvolvido ultilizando-se de tecnologias como Arduino e Linguagem C, onde a placa ESP32 é responsável por enviar dados mockados do banco de dados mongodb.
+
 > ### 📁 <a href="https://github.com/Conveccao/conveccao-backend">/back_end</a>:
 Contém o Back-end , implementado com uma arquitetura de microsserviços que consiste em uma coleção de serviços pequenos e autônomos. 
 Cada serviço foi desenvolvido em torno de um conjunto de regras de negócio específico, e foi implementado de forma independente, o que possibilitará uma manutenção e evolução dos serviços de forma mais estáveis, permitindo uma maior flexibilidade de tecnologias, colocar alterações em produção.
