@@ -43,7 +43,7 @@ A empresa Tecsus realiza a coleta e processamento de dados através de redes de 
 
 ## MVP 
 
-A definir
+Instalação da estação com sensores, criação de geração de alertas e ajustes finais da aplicação para entrega final do produto.
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
