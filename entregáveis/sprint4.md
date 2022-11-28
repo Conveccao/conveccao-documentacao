@@ -94,6 +94,6 @@ Instalação da estação com sensores, criação de geração de alertas e ajus
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/backlog-sprint4.png" >
+<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/burndown-sprint-04.png" >
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
